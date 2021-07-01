@@ -5,7 +5,7 @@ import java.util.function.Function;
 import java.util.function.Predicate;
 
 public class FunctionalInterfaces {
-
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		List<Integer> numbers = List.of(1,2,3,4,8,6,10,9,7);
 		
