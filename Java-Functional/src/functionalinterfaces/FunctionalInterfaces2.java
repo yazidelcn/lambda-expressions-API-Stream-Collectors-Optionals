@@ -37,6 +37,8 @@ public class FunctionalInterfaces2 {
 		biConsumer.accept("The year is ", 2021);
 		
 		
+		
+		
 	}
 
 }
